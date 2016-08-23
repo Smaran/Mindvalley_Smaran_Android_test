@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Mindvalley_SMARAN_Android_Test</string>
+    <string name="action_settings">Settings</string>
+    <string name="clear_memory_cache">Clear Memory Cache</string>
+    <string name="clear_disc_cache">Clear Disc Cache</string>
+    <string name="click_here_to_see_ripple_effect">Click Here to see ripple effect</string>
+    <string name="click_here_to_clear_cache">Click Here to Clear Cache</string>
+    <string name="ok_got_it">Ok, Got it!</string>
+</resources>
